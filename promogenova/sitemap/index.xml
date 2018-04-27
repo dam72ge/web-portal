@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <sitemap>
+        <loc>http://www.promogenova.it/sitemap/home-info/promogenova-it.xml</loc>
+	</sitemap>
+    <sitemap>
+        <loc>http://www.promogenova.it/sitemap/home-info/index.xml</loc>
+	</sitemap>
+
+    <sitemap>
+        <loc>http://www.promogenova.it/sitemap/eventi/index.xml</loc>
+	</sitemap>
+    <sitemap>
+        <loc>http://www.promogenova.it/sitemap/eventi/tutti.php</loc>
+	</sitemap>
+    
+
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/attivita/index.xml</loc>
+	</sitemap>    
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/attivita/vetrine.php</loc>
+	</sitemap>    
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/attivita/articoli.php</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/attivita/foto.php</loc>
+	</sitemap>
+
+
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/reti/index.xml</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/reti/tutte.php</loc>
+	</sitemap>
+
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/territorio/index.xml</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/territorio/province.php</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/territorio/comuni.php</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/territorio/municipi.php</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/territorio/quartieri.php</loc>
+	</sitemap>
+
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/ricerche/index.xml</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/ricerche/categorie.php</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/ricerche/parole-chiave.xml</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/ricerche/marchi.xml</loc>
+	</sitemap>
+
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/locandine/index.xml</loc>
+	</sitemap>
+	<sitemap>
+        <loc>http://www.promogenova.it/sitemap/locandine/tutte.php</loc>
+	</sitemap>
+
+</sitemapindex>
