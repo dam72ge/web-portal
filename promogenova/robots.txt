@@ -1,0 +1,51 @@
+# Robots.txt creato unicamente per rimuovere pagine e cartelle da Promogenova.it
+
+
+User-agent: *
+
+# cartelle hackerate
+Disallow: /img/nike8/
+Disallow: /img/images/
+Disallow: /img/donna/
+
+# pagine disattivate o rimosse, pagine inesistenti
+Disallow: /promo.php
+Disallow: /download/Brochure%20della%20Biennale%20della%20Prossimit%EF%BF%BD%20-%20Genova%202014.pdf
+Disallow: /faq/base.php
+Disallow: /lul%C3%B9/
+Disallow: /categorie/
+Disallow: /agenziareta/promo.php
+Disallow: /crosa-elettrodomestici/contatti.php
+Disallow: /genova/
+Disallow: /genova/risultati.php
+
+# accesso negato
+Disallow: /reti/loghi/3.
+
+# vetrine rimosse
+Disallow: /anticadrogheria/
+Disallow: /azienda-le-rose/
+Disallow: /bixio-abbigliamento-donna/
+Disallow: /bomboniere-gingillo/
+Disallow: /carrozzeria2008/
+Disallow: /charmeetbijoux/
+Disallow: /condor-motor-service/
+Disallow: /dufour-ceramiche/
+Disallow: /edicolatasso/
+Disallow: /etabeta/
+Disallow: /fotootticamax/
+Disallow: /freeslim/
+Disallow: /hair-artist-monica/
+Disallow: /ifioridisimonetta/
+Disallow: /lagazzaladra/
+Disallow: /lebotteghedelborgo/
+Disallow: /leda/
+Disallow: /lestreghekalu/
+Disallow: /officina-salvatore/
+Disallow: /pasticcidautore/
+Disallow: /pf-serramentieporte/
+Disallow: /raffovini/
+Disallow: /rita/
+Disallow: /soleluna/
+Disallow: /stelle-abbigliamento/
+
